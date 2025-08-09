@@ -27,9 +27,9 @@ Deployed Streamlit app that predicts used car prices based on brand, model, fuel
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL.
 - **Data Tools**: Power BI, Power Query, MS Excel, Tableau, Pandas, NumPy, Matplotlib, Seaborn
-- **ML Tools**: Scikit-learn, Streamlit, NLTK, Opencv
+- **ML Tools**: Scikit-learn, Streamlit,PyTorch , Opencv
 
 
 ---
