@@ -23,6 +23,9 @@ Weather Dashboard (Power BI Project) This Power BI dashboard provides a comprehe
 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics Proud to share my latest data visualization project — a comprehensive Shopify sales performance dashboard built in Power BI. This dashboard enables quick and powerful decision-making with deep insights into:📊 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics
 Deployed Streamlit app that predicts used car prices based on brand, model, fuel type, mileage, and year.
 
+### 🔹 **[Power-BI-Fitness-Body-Matrix-Dashboard](https://github.com/Vinaysangre/Power-BI-Fitness-Body-Matrix-Dashboard.)**
+A Power BI Fitness & Body Matrix Dashboard that combines health insights (BMI, calorie tracking, goals) with business intelligence (revenue, expenses, memberships) for data-driven decision making.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -30,7 +33,7 @@ Deployed Streamlit app that predicts used car prices based on brand, model, fuel
 - **Languages**: Python, SQL.
 - **Data Tools**: Power BI, Power Query, MS Excel, Tableau, Pandas, NumPy, Matplotlib, Seaborn
 - **ML Tools**: Scikit-learn, Streamlit,PyTorch , Opencv
-
+- **(UI/UX)**: Figma
 
 ---
 
