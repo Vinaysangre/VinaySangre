@@ -30,10 +30,10 @@ A Power BI Fitness & Body Matrix Dashboard that combines health insights (BMI, c
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL.
-- **Data Tools**: Power BI, Power Query, MS Excel, Tableau, Pandas, NumPy, Matplotlib, Seaborn
+- **Languages**: Python(Pandas, NumPy, Matplotlib, Seaborn), SQL.
+- **Data Tools**: Power BI, Power Query, MS Excel, Tableau.
 - **ML Tools**: Scikit-learn, Streamlit,PyTorch , Opencv
-- **(UI/UX)**: Figma
+- **(UI/UX)**: Figma,
 
 ---
 
