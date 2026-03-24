@@ -16,8 +16,8 @@ I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves tr
 
 ## 🧩 Featured Projects
 
-### 🔹 **[🌦️ Wheather_Forecast](https://github.com/Vinaysangre/Wheather_Forecast)**
-Weather Dashboard (Power BI Project) This Power BI dashboard provides a comprehensive analysis of weather conditions using interactive visuals and dynamic filters. The project focuses on visualizing key weather parameters such as:
+### 🔹 **[Vendor-Performance-Analysis](https://github.com/Vinaysangre/Vendor-Performance-Analysis)**
+Analyzed vendor and product data using Python and SQL to evaluate procurement, sales efficiency, and inventory performance. Developed KPIs like profit margin, stock turnover, and sales-to-purchase ratio.
 
 ### 🔹 **[SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT](https://github.com/Vinaysangre/SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT)**
 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics Proud to share my latest data visualization project — a comprehensive Shopify sales performance dashboard built in Power BI. This dashboard enables quick and powerful decision-making with deep insights into:📊 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics
