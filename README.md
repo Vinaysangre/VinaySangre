@@ -19,7 +19,7 @@ I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves tr
 ### 🔹 **[Vendor-Performance-Analysis](https://github.com/Vinaysangre/Vendor-Performance-Analysis)**
 Analyzed vendor and product data using Python and SQL to evaluate procurement, sales efficiency, and inventory performance. Developed KPIs like profit margin, stock turnover, and sales-to-purchase ratio.
 
-### 🔹 **[SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT](https://github.com/Vinaysangre/SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT)**
+### 🔹 **[SHOPIFY-E-Commerce Sales & Growth Performance Analysis](https://github.com/Vinaysangre/SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT)**
 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics Proud to share my latest data visualization project — a comprehensive Shopify sales performance dashboard built in Power BI. This dashboard enables quick and powerful decision-making with deep insights into:📊 Power BI Dashboard | Real-time Data Insights | E-commerce Analytics
 Deployed Streamlit app that predicts used car prices based on brand, model, fuel type, mileage, and year.
 
