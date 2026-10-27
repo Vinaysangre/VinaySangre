@@ -9,7 +9,7 @@ I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves tr
 
 - 🧠 Data & ML Enthusiast with a knack for automation and insight generation
 - 📊 Skilled in Python, SQL, Power BI, and Excel for building impactful data solutions
-- 🎓 Currently pursuing **Master of Business Administration (MBA)** from **DAVV University**
+- 🎓 **Master of Business Administration (MBA)** from **DAVV University**
 - 💡 Lifelong learner passionate about combining analytics with real-world decision-making
 
 ---
